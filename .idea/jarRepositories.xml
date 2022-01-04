@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="Repo1Maven" />
+      <option name="name" value="Repo1Maven" />
+      <option name="url" value="http://bcaartifactory:8080/artifactory/list/Repo1Maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Jenkins-CI-public" />
+      <option name="name" value="Jenkins-CI-public" />
+      <option name="url" value="http://bcaartifactory:8080/artifactory/repo.jenkins-ci.org-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central-maven" />
+      <option name="name" value="central-maven" />
+      <option name="url" value="http://bcaartifactory:8080/artifactory/list/central.maven.org/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://bcaartifactory:8080/artifactory/list/libs-release-local/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Repo2Maven" />
+      <option name="name" value="Repo2Maven" />
+      <option name="url" value="http://bcaartifactory:8080/artifactory/list/Repo2Maven/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="Jenkins-CI" />
+      <option name="name" value="Jenkins-CI" />
+      <option name="url" value="http://bcaartifactory:8080/artifactory/repo.jenkins-ci.org/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="KP2DEVOPSWEB01" />
+      <option name="name" value="KP2DEVOPSWEB01" />
+      <option name="url" value="http://10.4.203.28:8081/artifactory/list/RepositoryDevOps/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>

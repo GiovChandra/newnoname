@@ -1,0 +1,7 @@
+simpleCRUD\service\TutorialService.class
+simpleCRUD\controller\TutorialController.class
+simpleCRUD\model\Car.class
+simpleCRUD\repository\TutorialRepository.class
+simpleCRUD\SimpleCrudApplication.class
+simpleCRUD\service\impl\TutorialServiceImpl.class
+simpleCRUD\model\Request.class
